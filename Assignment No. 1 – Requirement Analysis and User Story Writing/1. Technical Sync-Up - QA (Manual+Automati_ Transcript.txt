@@ -1,0 +1,332 @@
+Technical Sync-Up - QA (Manual+Automation)
+Fri, Apr 17, 2026
+
+1:30 - Namra Kanwal
+Sound like everyone.
+
+1:40 - Unidentified Speaker
+Am I audible?
+
+1:41 - Namra Kanwal
+Yes.
+
+1:44 - Unidentified Speaker
+Yes, ma'am.
+
+1:45 - Aimen Munawar
+OK, we can wait for a few more minutes for the candidates to be joined.
+
+1:54 - Namra Kanwal
+and then you get to start, okay?
+
+3:02 - Namra Kanwal
+I think we should start. Let me guide you through the process. After the introduction call, we sync up. So, we just really want to, you know, add someone as a candidate who leads and becomes a Scrum Master. Scrum is like a node. It initiates an extra node. You lead it and take everyone's statuses one by one and node them. And then we answer everyone's questions.
+
+3:30 - Namra Kanwal
+So this time, I will let anyone lead, so you have to ask them in the questions, what are their challenges, what have they done, are there any blockers from their last assignment to this assignment, then we will resolve them. Answers we will be doing at the end of the call, I mean, everyone's resume will be added after that. So I think I am Aimen Munawar, I ask you to lead, ask everyone one by one questions, what are their statuses, Okay, I'll start.
+
+4:06 - Aimen Munawar
+So, first is, I think, Afeef Bhai. So, I would like to ask you what were your challenges that you faced in the first assignment and maybe what things that you learned from that assignment, primarily?
+
+4:17 - Afeef Bari#+#Aimen Munawar
+Hi, can I, am I audible?
+
+4:21 - Afeef Bari
+Yes, you're audible. Okay, I think the assignment is, do you by the next week. I just checked. I was about to start the sign-in, but I didn't complete it. I just went over it. I think it was about Gherkin and some basically some document writing about user requirements and some specification basically, but I didn't just complete it right now. I mean, I'll probably do it on the weekend. I was busy with my FIP and some stuff. So yeah.
+
+4:51 - Aimen Munawar
+Okay, so I think I'll move on to the next So Anam Yasin, so I want to first ask like have you completed the assignment and what were the challenges that you face in the assignment and overall how was your experience, what things you learned from that assignment?
+
+5:11 - Unidentified Speaker
+Anam is our mentor.
+
+5:13 - Namra Kanwal
+Sorry, I'm sorry.
+
+5:15 - Aimen Munawar#+#Namra Kanwal
+No problem.
+
+5:16 - Anum Yasin
+It's not the first time, last cohort may be multiple times, but they asked me assignment related questions. I'm very much happy that I still look like a student.
+
+5:34 - Aimen Munawar#+#Anum Yasin
+So, you can note down any challenges, any blockers, anything that they faced during the submission.
+
+5:43 - Aimen Munawar
+If you didn't get the link, if there was an issue on git, anything assignment related, like anything you faced difficulty or blocker in your status what you have done what you are planning to do and any challenge blocker anything or a personal thought if you want to share So I'll start with my studies then I have completed the assignment and it was a really good assignment I got to know about how to get the requirements of related to a specific project and it was related to I think a bookstore basically an e-commerce bookstore and it was one issue I faced during the submission was when I tried to upload the doc file it was giving me an error related to the size of the file then I just simply saved the file as PDF and uploaded it so the issue got resolved. So that was all on my side then I think we'll move on to next one which is Iza Batool. So Iza I would like to ask you how was your experience with the assignment if you have completed the assignment and if not what you are planning to do in the assignment?
+
+7:13 - Batool, Izzah
+Assalamualaikum, I have not yet completed completed it because I had my final year defense this week so I have been quite occupied. I was starting it last night but then I saw the deadline was extended so but it's not a challenge but I was actually a bit I always have this question when I whenever I'm doing something about functional requirements and non-functional ones like how much detail do you have to go into, like, because if, like, can you cover more than a couple of requirements into one or do you have to, like, list down each one of them separately? So they, like, that's how it becomes an extensive document. So I just want to know that how it's done in, like, real world, how extensive is that document and how much points do you have to cover? Like as many as you can or you just have to, I don't know, like stick to a certain boundary maybe. So I just want that to be answered. Thank you.
+
+8:28 - Aimen Munawar
+Yeah, this was an issue that I thought about that too. Like after I completed the assignment, I thought that maybe the level of detail that I covered was not enough because there are a few things that were coming in my after the assignment too.
+
+8:41 - Aimen Munawar#+#Batool, Izzah
+So I have this question too. Exactly.
+
+8:45 - Aimen Munawar
+Next one I think is Bilal Ansari. So I would like to ask, have you completed the assignment? And if not, what are you planning to do in the assignment?
+
+8:56 - Unidentified Speaker
+Hello? Hello?
+
+9:03 - Aimen Munawar#+#Bilal Ansari
+Yes, you are audible. Hello, ma'am. Am I audible? Yeah, you are audible. Assalam-o-Alaikum ma'am.
+
+9:09 - Bilal Ansari
+Ma'am, same thing happened with me that when I upload the assignment, after one to two hours, then new points and new ideas are coming on my mind. And I am saying, abe yeh bhi toh tha, yeh bhi tha, hum hote toh yeh bhi dekh lete. So, the main thing is that Thank you Bilal.
+
+9:41 - Aimen Munawar#+#Mehreen Huda
+So yeah, this is I think it's a question that everyone has. So next we'll move on to Farooque Sajjad. So I would like to ask, have you completed the assignment? If not, like how are you planning to, what is your towards the assignment.
+
+10:16 - Aimen Munawar#+#Mehreen Huda
+Farooque Sajjad, are you present in the meeting?
+
+10:32 - Aimen Munawar#+#Mehreen Huda
+Okay, so I think his mic is not working. So we'll move on to Furqan Azir now. So have you completed the assignment? I would like to ask and if you face any challenges during the assignment or not.
+
+10:47 - Furqan Azhar#+#Mehreen Huda
+Yes, I have completed the assignment.
+
+10:55 - Furqan Azhar#+#Mehreen Huda
+One thing that I faced an issue in was that we were on the portal at the very least we were getting access to, I think, the previous cohorts assignments. They were also showing up over there. So I was confused at first why we are being shown the assignment number five. It was resolved when I got into the discussion and asked other people as well if they were facing the same issue. One issue was that in the assignment specifically, the same issue that you also told the user in the user requirements and user stories. I had to first understand what these actually are. And it gave me a broad line idea of how, like, even before you are making anything, the planning that goes into it.
+
+11:36 - Furqan Azhar
+It does cover in a generalized way how the features that would be required, and then it is split into the functional and non-functional requirements overall.
+
+11:47 - Furqan Azhar#+#Mehreen Huda
+But the same issue I was coming up with so many US stories and so many acceptance criteria like different scenarios in which I could have made the given when then statement was not understanding how extensive what I have to make them and I mentioned like six scenarios overall to hospital across different. So like functions to get and then derive from then the function is in non functional requirements, but that was the initial like how expensive do I have to make them so overall when I'm making the sprint planning portion of the assignment to show that it covers all of the attributes that was the only issue I faced. Thank you Furqan.
+
+12:31 - Aimen Munawar#+#Mehreen Huda
+Now I would like to ask Maheen, have you completed the assignment and what was overall your experience with the assignment if you faced any challenges?
+
+12:43 - Maheen Tariq#+#Mehreen Huda
+I have not completed yet I will go over it over the weekend.
+
+12:47 - Maheen Tariq
+I have done my research what I am going to write in the document but I will do it inshallah on the weekend.
+
+12:57 - Aimen Munawar
+Okay so now I will move on to Mehreen Huda and have you completed the assignment and if not like what how are you planning to approach it Mehreen, are you present in the meeting? I think her internet might be lagging. So now I'll move on to Faizan Anwar. And again, the same question, have you completed assignment if yes then what challenges you faced and what is similar to the ones that previously other people mentioned.
+
+13:58 - Aimen Munawar
+Furqan are you Are you present in the meeting?
+
+14:03 - Aimen Munawar
+I think maybe his mic is not working. Then I guess Shahid khan.
+
+14:13 - Unidentified Speaker
+As-salamu alaykum.
+
+14:15 - Shahid khan
+Walaykum as-salam.
+
+14:16 - Aimen Munawar#+#Shahid khan
+So again the same question. Yeah, then how was your experience?
+
+14:23 - Shahid khan
+Yes, ma'am, I have completed the assignment on the very first day. I have done two major internships and quality assurance and project management role so assignment was very helpful to understand the user requirement and how to define the requirement and the main thing is like whenever I first done my internship and the same role so that was feeling like whatever we read and we thought in the university has come to a real world scenarios and it was like sold satisfactorily that all of that are not going in vain and we are going to explore things through this program. One issue which I have faced in the very start of the assignment that I unable to join the community or announcement section on Discord. So I still face the same problem whenever there is an announcement or anything. So I'm unable to join the announcement section. But finally, I got emails. So I get into the session and email response was like so helpful so I was able to complete my assignment through this and that's the major problem I have faced that I am unable to join the announcement section so there may be a delay requirement or user requirements and make it all concise so Thank you, Shahid.
+
+16:23 - Aimen Munawar#+#Shahid khan
+So now I think I would like to ask Syed Ibtijaz to tell about his experience regarding the assignment.
+
+16:32 - Aimen Munawar
+Syed Ibtijaz. So, I have completed the assignment and I didn't understand where to use the Gherkin language.
+
+16:43 - Syed Ibtehaj
+I used it in the acceptance criteria. Other than that, I didn't understand where to use it. The biggest problem I had was the functional requirement and non-functional requirement. I didn't understand how to take it and how brief it should be.
+
+17:10 - Syed Ibtehaj
+I made bullet points for it. If I want to make something from someone, if I am running a burger store, for that I have requirements. So I should have at least 15 to 16 points. Accordingly, all the stories will go around. So this is what I did. I did as much as I understood. If someone can better explain to me or someone can guide me that how to take functional requirements and non-functional requirements.
+
+17:38 - Syed Ibtehaj
+Thank you so I think everyone is done except like a few people whose mic were not working so I think that's all on my side and like I think you guys can now answer the questions.
+
+18:18 - Shahid khan
+Anyone who is left from the status update can raise their hand.
+
+18:34 - Unidentified Speaker
+No one is left? Okay. Your common question is related to requirement analysis.
+
+18:40 - Anum Yasin
+Functional and non-functional requirements. Okay. And if the date is extended, that's very good. But you have to try to submit it on time.
+
+18:50 - Anum Yasin
+extent and your assignment is left, then after submission your date closes and you won't get flexibility and your assignment won't count. And then you have to attempt it good that there is a criteria because if you have 7 assignments and 5 have to be marked as good so that you will be eligible for the certification. Okay now coming towards the point that you guys asked about functional and non-functional requirements and how do we So when we are doing in real-world scenario, we take every granular requirement on a granular basis so that every requirement is listed, acceptance criteria is mentioned, how flows will run, how business flows will run. Every point has a user story created and then work is done on it. You verify whether it meets the business requirement or not. Functional requirement defines the features of the system. What is the system doing?
+
+20:05 - Anum Yasin
+what is the business requirement and we are meeting the business requirement. For example, if you are in e-commerce, you have registration on your site, you have login on your site, you have search products option, you have add to cart option, all these functional requirements, you can place an order, you can log out. Now you have made a user story of login. Now in login, you have a lot of stories you are providing a login feature, there will be further scenarios. For example, you are giving a valid email in your login, your login is accepting a valid email or password. If you are giving an invalid email or password, you are showing a rejection, your validation is being applied, your user cannot sign in. So these are pretty much, you know, in every scenario, in every user story, there are a lot of scenarios.
+
+21:00 - Anum Yasin
+but you are giving invalid input in the password, then your password related validation should be shown under that field. Until your invalid input is there, your user should not log in. You have user roles like admin user. If he logs in, then he has all the admin related access. If you have a guest user, then he will have limited access when he logs in. Your admin user will have your admin related dashboards on which he can access your e-commerce site. On top of that there will be an e-commerce admin section which will manage all the things on the site. It will manage, upload, delete and update the products. It will be a user story of a search product. It will be a functional requirement. So you have to think from a consultant point of view also that if your client is not technical Drill down the flow and think out of the box and search for the scenarios and how many scenarios come out of your one functional requirement. And you have to mention it in as much detail as you can. Right now you have a limitation, you have to pick an assignment if you want to mention the main main features, functional features and main non-functional features. That would be good enough but when you'll be in your own projects inshallah then it would be best to go on a granular basis and point out each and every detail within the system, within the flows.
+
+22:43 - Anum Yasin
+Sorry, I was looking at a message. And then when we come to our non-functional requirements, you can say that attributes, quality checks, system performance, scalability, usability etc.
+
+23:08 - Anum Yasin
+Farooque, you raised your hand. Farooque, if you can tell us your problem, please do so.
+
+23:33 - Farooque Sajjad
+Ma'am, as you said, Safety critical systems.
+
+24:04 - Farooque Sajjad
+I just want to add a basic function and non-functional make a difference.
+
+24:08 - Anum Yasin
+So let's assume you just have to enter your username and password and you just click on So your system should lock you out.
+
+24:34 - Ehtasham Ahmad
+So that should be a non-functional requirement of your feature. After logging in, your dashboard should load within three seconds. So it's like a non-functional requirements of a client.
+
+24:59 - Ehtasham Ahmad
+There are different quality checks and time critical things, so they fall under the category of non-functional requirements.
+
+25:09 - Anum Yasin
+Farooque, you have got the answer to your question and you want more explanation.
+
+25:27 - Unidentified Speaker
+Yes, ma'am, I get it.
+
+25:30 - Anum Yasin
+OK, anyone facing any difficulty in the requirement analysis or I think up to next assignment of the time, you have to split the stories that you have derived. For example, if you have written 10 out of all the requirements, you have to divide 10. It's just a mock thing that you you get to know about how the project works, how the sprints work. You have to keep it feature-wise. First, what features will you provide to the client? At the end of every sprint, we deliver something functional to the client. For example, we give a login functionality. After that, the client or the user has to go to the dashboard or the guest user has to go to a certain place. So, we give the sprint features. We divide the sprints and take it to the complex functionality requirement wise. You have to make a simple document file, which is mentioned in the assigner. You have to give the sprint division accordingly. You can make four sprints, five sprints, whatever you think about the user requirements, according to the stories you have made. And then you go to the test cases. You will learn about Testworthy. You will also learn about our 10th Pulse University course. You will learn about test management systems, how to manage test cases, how to make test runs, how to make test executions, how to generate test reports. Based on the user stories, you will write the test cases. You will add them to Testworthy. You will take screenshots. If you have any difficulties, then do take help from each other. Teamwork.
+
+27:46 - Anum Yasin
+and then keep your communication on Discord and do post the questions and first of all complete your learning and then upload the certification as well. With every Temples University course, at the end you have to attempt quizzes and you have to generate a certificate, that certificate too, with your assignment, uploading it. Very good.
+
+28:16 - Anum Yasin
+I said that's very important thing being a QA that you have to be verbal. You have to demonstrate your communication skills, abilities, that you are at least showing gestures, you are showing your presence, you are giving thumbs up, if you have a question, raise your hand, you give your own points, you discuss things, you come to every meeting, you bring your personal points that we discuss, or whatever you guys want to discuss within your own team, interns, Yes, ma'am, I wanted to ask about this.
+
+29:34 - Saim Wajid
+Now, you can divide every user story, every scenario in it. It's not that you take only one chunk and log in.
+
+30:03 - Anum Yasin
+given when then You can divide the story into chunks and you can define each chunk in one portion of the given vendor. You can also define acceptance criteria separately. If you have multiple acceptance criteria in one scenario, you can mention user story and then you can mention acceptance criteria under that in normal text. Multiple acceptance criteria point out these points that what does the definition of done meet and then story can be completed. So, Aimen.
+
+30:47 - Aimen Munawar1
+So, I have this question that when we are attempting assignment and writing like requirements and user stories, should we write it from the perspective of every type of user that our app is addressing like in the case of even bookstore, we have like admins and other type of user too. So should we mention them too? Because in the current assignment, I did not address those requirements. Yes, you have.
+
+31:09 - Anum Yasin
+Whatever you think the audience is, you have to cover all of that aspects of the system.
+
+31:22 - Anum Yasin
+Namra and Ehtasham, can you guys carry forward this meeting? I have to jump on them. Thank you.
+
+31:31 - Ehtasham Ahmad
+Thank you so much. OK, so I'm in. She was in the middle of something like,
+
+31:47 - Ehtasham Ahmad
+OK, so. I mean, I think question.
+
+31:56 - Aimen Munawar
+Yeah, my question was that when we are, you know, writing requirements and test cases in any assignment, so should we cater to all the different kind of users that are part of that application like admin and other levels of user or just focus on the major audience for that application?
+
+32:23 - Ehtasham Ahmad
+to cover all the aspects. So, for example, if you only write a test case for the admin role or if you miss cases for the user role, you'll miss some major critical parts to test as the user role. So, you always have to test for every aspect.
+
+32:49 - Ehtasham Ahmad
+for her feature or her role key according. So yeah, it's fallen in the category of test coverage. Yeah, okay, test. Okay, you had a question. I saw your hand raised. Okay.
+
+33:15 - Ehtasham Ahmad
+Hi. Hi.
+
+33:43 - Syed Ibtehaj
+So that will cover your internship phase.
+
+34:12 - Afeef Bari
+I just wanted to Sir, there are a lot of possibilities that how many users will be there, how many stakeholders will be there in a specific scenario. For example, in a library, there will be librarians, guests, regular users. There is not one specific answer for every scenario. There can be a lot of answers. For example, if my answer is different and someone else's is different, how would we test based on our answers?
+
+35:39 - Ehtasham Ahmad
+it will be on a bigger picture. So there's any other. Anyone else I call on the question?
+
+35:53 - Ehtasham Ahmad
+OK, so Namra, do you want to add something or should we conclude this? I'm not sure about the rest of the agenda. No, not from my sides.
+
+36:03 - Namra Kanwal
+I think we just end at this point.
+
+36:07 - Namra Kanwal
+So you guys can connect with us.
+
+36:08 - Ehtasham Ahmad#+#Namra Kanwal
+If you have any blockers with us, you can connect or you can share your queries with us.
+
+36:15 - Unidentified Speaker
+Yes, we can. I wanted to ask you. Yes, for one.
+
+36:19 - Shahid khan#+#Syed Ibtehaj
+The main assignments and key to evaluation.
+
+36:25 - Furqan Azhar1#+#Shahid khan
+Weekly basis. By the end of the
+
+36:33 - Furqan Azhar1
+I'm I'm right now.
+
+36:37 - Namra Kanwal
+or at the end of the or other assignment.
+
+37:01 - Furqan Azhar
+Uh, no.
+
+37:25 - Namra Kanwal
+That's fine.
+
+37:31 - Ehtasham Ahmad
+Shahid, you have a question?
+
+37:35 - Shahid khan 1
+Sir, my question is about evaluation. When we submit or upload an assignment, there will be a risk that the assignment will be taken to a critical level.
+
+37:52 - Shahid khan 1
+main core functionalities, user stories, how can we evaluate on the basis of word? They can drop the assignment, they can just make clear instructions of what you have to do, what are the It's all about the more you learn, the more your assignment will be.
+
+38:47 - Ehtasham Ahmad
+Is there any standard? Is there any standard?
+
+39:14 - Ehtasham Ahmad
+you're meeting those instructions. It's up to you guys. It's not a requirement. It's all about the prompt that you guys search.
+
+39:38 - Namra Kanwal
+she still have any Okay, questions sir. Thank you. So you You're can welcome. Approach I us think and we'll be happy to answer.
+
+40:03 - Syed Ibtehaj
+So you can use multiple ends to put different, you know, sentences in your user story.
+
+40:32 - Ehtasham Ahmad
+So you can look for it. The user is on the login page.
+
+40:35 - Ehtasham Ahmad#+#Syed Ibtehaj
+And when the user's login page loads, then he'll enter his credentials.
+
+40:38 - Syed Ibtehaj
+And he should be able to successfully log in.
+
+40:58 - Ehtasham Ahmad
+of different scenarios. And he logins with valid credentials, and he logins with invalid credentials. So you can use those kind of strategies to cover multiple scenarios in this.
+
+41:27 - Ehtasham Ahmad
+can have human readable language or the syntax of the given event. The testing approach behavior-driven development. As a QA, you want your business people to sit with you on the software.
+
+41:38 - Ehtasham Ahmad#+#Syed Ibtehaj
+They don't know how to write test cases.
+
+41:40 - Ehtasham Ahmad
+They'll provide us scenarios, user cases. They'll provide you different cases in given a Kerkin syntax, so you'll translate those syntaxes into your code as well when you move to automation.
+
+42:04 - Ehtasham Ahmad#+#Syed Ibtehaj
+Yeah, exactly. Kerkin is simple, plain English with just a few words given.
+
+42:15 - Ehtasham Ahmad
+So every person who will know English will be able to understand the scenario, the story, and the developer can translate easily those steps into the code when you go into, you know, automation testing. So this is called behavior driven development. If you can use any tool like English. Yeah, we also got a sedition.
+
+42:51 - Ehtasham Ahmad
+Farooque. Good work, Farooque.
+
+42:57 - Ehtasham Ahmad
+Okay, so I think we'll see you next week at the same time in our next Technical Syncup. So, have a good week.
+
+43:05 - Ehtasham Ahmad#+#Shahid khan
+Goodbye.
+
+43:11 - Shahid khan#+#Syed Ibtehaj
+you

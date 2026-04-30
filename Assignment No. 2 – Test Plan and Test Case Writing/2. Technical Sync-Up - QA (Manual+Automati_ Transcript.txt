@@ -1,0 +1,200 @@
+Technical Sync-Up - QA (Manual+Automation)
+Fri, Apr 24, 2026
+
+0:15 - Unidentified Speaker
+I don't know.
+
+0:30 - Syeda Kisa Fatima Abidi
+Thank you. I think we'll wait for a couple of minutes and then we'll start. Meeting. Thank you. I think we can start. Anum and Ambra, should we?
+
+4:44 - Anum Yasin
+Yes, we can start. Yes, we can start.
+
+4:48 - Syeda Kisa Fatima Abidi
+OK, so hi everyone. I hope you're all doing well and I hope that. I'm in one. Because it's due today. If there's something left or you guys have any queries related to it. This was just the brief and before we begin the call, I would just want to explain you how it's going to work and how this call is going to continue. On every week we will pick any one of you and then the way the status is discussed, usually on a daily basis we have a daily stand-up. So if we are having only one call with you, we will be having a weekly stand-up in which one by one, one of you will ask ask the same questions, the three main questions. Like the submission that you've submitted. So you can discuss those pointers as well. So we will go one by one with everybody so we can have an idea. And it's best that you discuss your issues, your queries, we do understand what like what is the issue? Whatever the problem is, you can like not the detailed bit of it like we can note the question questions. The one who will be taking the status is what I would expect them to take a note of any questions that are being or queries that are being discussed over this call and once subcast status. So it's going to be the best would be that we can discuss the questions one by one. I think I'm clear with everything. First thing before we start, start the the sessions I would request you all to turn on your cameras because obviously it's an virtual internship. So the best way that we can interact would be when you turn on your cameras and we can have a session where we can see each other. Right? If are you am audible to you, can you just start with the meeting like give on give your status for all of the those questions that I asked? I was done with done it with me on last sync up. OK, so we can move to the another candidate. Yeah, sure I can ask if you can do it.
+
+7:22 - Syed Ibtehaj
+Yeah, sure. Thank you.
+
+7:35 - Syeda Kisa Fatima Abidi
+Okay. Can I start? Yes, Afeef.
+
+8:03 - Afeef Bari
+As I mentioned, Assignment 1, did it a long time ago, and the submission was timely. Yesterday, I think, Quiz 1 uploaded, and Assignment 2 uploaded. I didn't work on that at the start, but at the same time, I logged in and registered on the 10-page university portal. I faced a problem there, which I cleared out on Discord. The confirmation mail I was supposed to receive, I thought I wasn't getting it, but it was in spam and junk folders. The way. This month I believe. And it is going pretty smooth. That's all from my side. Sure, sure. It's not this related.
+
+8:59 - Syed Ibtehaj
+Yeah, I have done the assignment one.
+
+9:27 - Aimen Munawar
+and currently I have not started uh on the assignment too because I just saw it today so I will most probably work on that this week and also I think there is a quiz that is uploaded so I will go through that too Assignment number two I think there is some issue in uploading it.
+
+10:13 - Bilal Ansari
+As soon as it is done, I have started working on it. So as soon as it is done, I will submit it. But I just got to know that the quiz is also being uploaded. So I will try to wind it up by next session.
+
+10:33 - Syed Ibtehaj
+I'm sorry.
+
+11:00 - Syed Ibtehaj
+Assalamu alaikum.
+
+11:03 - Furqan Azhar
+Assalamu alaikum. Thank you.
+
+11:45 - Farooque Sajjad
+Uh, uh, uh, Assignment submitted.
+
+12:12 - Syed Ibtehaj
+I am working on Assignment 2.
+
+12:33 - Unidentified Speaker
+Okay.
+
+12:34 - Syed Ibtehaj
+Muhammad Ahmed. Muhammad Ahmed, are you in the meeting?
+
+12:47 - Muhammad Ahmad
+Yes, I have completed my task. I suppose you know it's like, So after that, I will do some documentation. I will start the task to Yeah, that's from my side. Yeah, it's it's something for myself.
+
+13:12 - Syed Ibtehaj
+Yes, that's it. More material.
+
+13:30 - MUHAMMAD FAIZAN ANWAR
+Hi. Am I audible?
+
+13:34 - Syed Ibtehaj
+Yes.
+
+13:36 - MUHAMMAD FAIZAN ANWAR
+So basically, assignment one has been submitted. It's a very easy assignment, I would say. There were functional, non-functional requirements. And Jerkins was something new for me because we had worked on functional, non-functional as our projects. But working on Jerkins was something I learned from assignment one. So it's submitted. And assignment two, I have I've done some of the work on that, but haven't submitted yet. So that's all, I guess.
+
+14:08 - Syed Ibtehaj
+Muhammad Haris.
+
+14:12 - Unidentified Speaker
+Assalamu alaikum.
+
+14:13 - Muhammad Haris
+Assignment 1, submitted last week. And yesterday I found out about assignment 2 and quiz 2. Hopefully, I'll be able to see that.
+
+14:27 - Syed Ibtehaj
+We have a question from Shahid khan.
+
+14:33 - Shahid khan
+Assalam-o-Alaikum.
+
+14:34 - Shahid khan
+In the last lecture, we talked about the concept of functional requirements, non-functional requirements, user stories, customers related, and we explored the format accordingly. Thank you. Thank you.
+
+15:24 - Syeda Kisa Fatima Abidi
+I think. I think. Yes.
+
+15:25 - Syed Ibtehaj
+I think. I think.
+
+15:51 - Syeda Kisa Fatima Abidi
+So those dates have been updated with me. Now if you can retry it once, it will be good.
+
+15:58 - Unidentified Speaker
+Log out and log in again. Very good.
+
+16:11 - Syeda Kisa Fatima Abidi
+Bilal, are you with us? Hello. I think. Anyway, to since we're status done or I'm in one key submissions. To be good that. I think. Again, I would just repeat, you know. I would just repeat K you can submit it by tonight. Assignment one. Yes, if you have a question you can ask.
+
+16:56 - Afeef Bari
+So I have a question. Are these assignments checked by a bot or an AI? Yeah, I'll miss it. We mentor he checkers in assignments. So basically. Yes, I mean.
+
+17:13 - Anum Yasin
+We are reviewing the assignments, but you know, if you go further in your cohorts, there will be a huge count of interns in the next cohorts. So what we do, we also use bots, but we review the assignments by our own self. And we also look at the evaluation of the bots. And you know, when you go to the next phase of the QA internship, you'll be doing some practical things, like API testing, automation testing. Learning tools, frameworks. So, what is the subjective part? This part, the manual part is the subjective part of your internship and that defines the base. So, in basic assignments, I do it personally. We all do it. We go through your assignments details. We put the remarks on the exam. You know, you can always take help from AI. Over the net, you get the topics and you can do a lot of search and you know clear your own concepts. Coming towards stand up.
+
+19:13 - Aimen Munawar1
+I have this question in the second assignment. It's written that we just need to submit the test for the link, but obviously we would first write the test cases on our own, maybe in a doc or something. So should we upload that doc to or just the link is enough?
+
+19:28 - Anum Yasin
+Oh, thank you. I was going through your assignments and then I remembered But then I told you that first you have to take Git training, make a Git repo, and then you have to submit each and every document in that separate repo. And then you have to update the repo link for each assignment. Because the bots that you make will go to each repo, read your assignments and then the bots will evaluate and we will do the same. So today I saw the assignments, some of them were SharePoint links and the documents were updated. So if you guys can resubmit then it would be good but then I have to, other than that I have to talk to HR. Test cases screenshots and the test cases itself. For that assignment. Assignment number three, bug reporting. Assignment number two, test cases.
+
+21:30 - Syeda Kisa Fatima Abidi
+I will just reiterate that it is better that you make your Git links and do all the submissions on it so that we do not have to hassle to go to test worthy, download your things, see, reach out because we need access. Then it becomes a long process. Last time, as an evaluator, it becomes a problem for us to reach out to that test worthy link and all these things. So the best practice would be that you You can create a git account and you can submit all the details there. I hope that makes sense and it's very clear that this is how it should be done.
+
+22:12 - Anum Yasin
+I would like to add something. The workflow of the test execution tools is the same. There are some extra features. Some tools have different features like mostly JIRA is being used. So this would be key documentation. How it works, what is it? Yeah. Ideally. I would like you to understand the manual part more and invest time in it, but don't prolong it too much. You should give time when you go into automation, pay testing, learn tools, explore them. Along with that, apply your own logics, explore things, try to do something yourself so that you invest more time in them instead of prolonging the subjective part too much. After that, you have to create test cases on the basis of test stories, which was your last assignment. Then, you have to look at the websites we have. If you find any website with bugs, you have to update that link as well. Then, you have to explore those websites in your next assignment. Coming towards the point about the stand-up. In stand-up, we give our status and tell what we have done. But the most important thing is the blockers. As a QA, you have to identify each and everything you find as a blocker, or what is stopping you from progressing for that day, or for that task, or whatever your target is. That you want to achieve for that day, or for that week, or for the sprint. Mention each and every blocker in the sprint, about the sprint, or about the task in your stand-up. As a QA, you have to be proactive in your approach. You don't have to wait for the work to move forward, or the test ticket comes to you, and then you have to work on it, and then it will stay there, and then you'll say, we'll bug-lock it later. A minor bug or a UI. Mention each and everything. Create improvement tasks, create bugs, separate tasks. If you think there should be improvisation in the project, then you can create it later. Note the points and put the separate tasks on the board. So that there is a list of items because when you put your point, you can put a reference of each and everything that you are saying in front of your team. It is very important to define blockers. You can tell if a blocker is coming in your workload. You can tell if you don't understand something. Then there are sprint plannings. When sprint plannings are happening, you have to think, think out loud, speak out loud. Thing revolves around the communication and all that abilities. Ke aap apna point kis tarah se team ke aage jo hai woh define karte hain. Sometimes, most of the times, aisa hota hai ke aap koi cheez koi improvement batate hain, jo cheez implement ho chuki hoti ho uske anda hai. And all of a sudden, team ki taraf se aapko rejection milti hain, or kehte hain yeh invalid point hain, yeh yeh consider nahin ho sakta, yeh requirement mein hi nahin hain, but you think that that is a valid thing, toh aapka with all that evidences and all the, you know, proofs that you are making the right decision or you are saying the right thing and you have to document it. At that time, it may not be accepted, maybe it will be accepted later, maybe it will be rejected later, but that thing will be your account that you put all of your efforts and the cognitive abilities, because you have to do it in the that you do.
+
+27:08 - Syeda Kisa Fatima Abidi
+Then, um, second thing that I would expect you, you should not restrict yourself to what assignments, or the links that we have shared with you. The internet is a wild space, and you guys are technical students, our expectation is that you do your own research and the best would be that you do your own findings, your own research. Some of you mentioned that they didn't have Gherkins for them, so they did their research, they studied, their findings were there, so it was a new thing. Or you did some research or you identified some learning material while you were doing those assignments, so it would be best if you share that also. When you are sharing statistics, details, but that would also help others also to get a different perspective. So this can help. And secondly, I would want you all to make sure that you keep these things in mind, keep your learning good, keep your pointers good, and also if any such blockers come, for example, then share it necessarily because most probably it's possible that a blocker is coming to you or to someone else but they are shy enough not to share it. But then if you discuss it, it becomes a conversation and it helps others as well. So for that very reason, it's best that you discuss your query from your point of view. So I think that is also a good approach for things.
+
+28:52 - Anum Yasin
+Speaking about the manual part, you guys have to explore the testing types of testing types. We use regression. What is pre-testing? What is sanity? What are sanity checks? Security testing. You have to learn basic security testing. When we are testing, we are using developer tools. When you inspect, developer tools open up and you can see each and every detail. You can see what API data you have. What is the APS payload? Are sending, what data are they taking to the server side, what is the placement of UI elements, can we remove their IDs, check. These are different things that we do in our routine, which are not mentioned in your training, but all these things are included in the processes we have. You have to see the database testing, because that is a whole different subject, so we couldn't cover it. But when you sync up with us, you will get to know something or the other. Website. W3Schools is a very basic website. I started using it when I was in university. You start with a simple query, a simple command, and then you go towards joins. You can see what kinds of joins there are, how you can get data. You can also find practice materials and queries there. Learning. So when you appear in the interview, database questions. Basic level questions. How you guys are going to retrieve the data or update the data. Security. So next time inshallah jab aap aayein then do discuss the things that you have tried with that database with the security testing and job key assignments and then I hope that you guys can move on towards your next assignment. Okay.
+
+31:47 - Syeda Kisa Fatima Abidi
+And with that, I think we are as well as well. You go through that also. You will get to know the knowledge of that. That as well. So, I would always recommend that you have a very strong research background. Somebody has a question. Afeef, yes? I'm sorry, you're on mute. I cannot hear you.
+
+32:40 - Afeef Bari
+Am I audible now?
+
+32:42 - Syeda Kisa Fatima Abidi
+Yeah.
+
+32:43 - Afeef Bari
+I'm sorry to cut you off. Ma'am, Anand Devi, SQL Injection ki baat ki thi aur basically attacks ki baat ki thi ke QA ke kaam in attacks se bhi, I think, bachana hota hai ke software aapka basically secure hoon.
+
+32:55 - Syeda Kisa Fatima Abidi
+Toh, ek kaafi overlapping as a QA, you have a diverse role, you don't know which domain you have to test, so you have knowledge of every aspect, be it API testing, be it database testing, be it different situations, because if we go to the development side, is it a back-end or a front-end you need to know basic information around all those fields. Nobody's going to ask you. But at least you should know how you're to deal with those things. So basic concepts. That's what Anum wanted to say. I think Atisha wants to add something.
+
+34:07 - Ehtasham Ahmad1
+Yes, I would want to add on this SQL injection thing. Application. So, as a QA, you must know. As a minimum, you must know.
+
+34:52 - Anum Yasin
+Same. So I was also going to explain this. Different sort of applications. Login. Login to basic. Application. Login. Security information. Any other thing that you want to discuss? Otherwise we can end the meeting.
+
+35:46 - Syeda Kisa Fatima Abidi
+Screen shot.
+
+35:50 - Bilal Ansari
+GG.
+
+36:13 - Syeda Kisa Fatima Abidi
+Hi, I have a question about second assignment. So basically second assignment is all about test cases and test plan.
+
+36:24 - MUHAMMAD FAIZAN ANWAR1
+So while building test cases, Is there any limit that there should be a portion between positive test cases and negative test cases? Yeah, you can go with anything you want.
+
+36:52 - Syeda Kisa Fatima Abidi
+Anand can answer you better. Anand?
+
+36:58 - Anum Yasin
+There is no limit. But your test cases should be relevant to detail, relevant to the scenario. Details. Other than that, if you think that you are done, you have covered enough detail, then you should be done for that part and then you move on to the next scenario or whatever. Thank you, Vine, for confirming. Bilal, can you recheck please?
+
+37:39 - Syeda Kisa Fatima Abidi
+just somebody in the chat just confirmed. For Khan, I think you had a question. I think there's some issue with your And try. Cuz I hope your answer the question has been answered.
+
+38:16 - MUHAMMAD FAIZAN ANWAR
+Yeah, it's awesome.
+
+38:24 - Syeda Kisa Fatima Abidi
+Jennifer would go to the questions. I think we can end this call. But I'll please recheck on your end. Yes.
+
+38:34 - Bilal Ansari
+Yes, ma'am. I log out and then log in there. It is working properly now.
+
+38:40 - Syeda Kisa Fatima Abidi
+OK, no problem.
+
+38:42 - Bilal Ansari
+Now the status is showing pending.
+
+38:44 - Syeda Kisa Fatima Abidi
+OK, so you can now submit the assignment by 1st May.
+
+38:50 - Bilal Ansari
+Yes, ma'am.
+
+38:52 - Syeda Kisa Fatima Abidi
+I hope every question has been answered and we're good with this meeting. I hope to meet you guys in the next meeting. That's probably next And good luck. Have a good weekend.
+
+39:28 - Anum Yasin
+Assignments. Seven. Yes. I think we're all good and yeah, thank you so much everyone.
+
+40:13 - Syeda Kisa Fatima Abidi
+We'll meet in shallow next week. Thank you. Thank you.
+
+40:33 - Unidentified Speaker
+you
