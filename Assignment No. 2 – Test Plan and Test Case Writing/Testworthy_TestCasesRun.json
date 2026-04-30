@@ -1,0 +1,215 @@
+{
+  "testRun": {
+    "id": 411,
+    "name": "Execution Run 1 - Build v1.0",
+    "status": "in-progress",
+    "executionDate": "2026-04-30T21:29:00.745Z"
+  },
+  "executions": [
+    {
+      "id": "exec-0",
+      "testCaseId": 3387,
+      "testCaseNumber": 13,
+      "testCaseName": "TC-ACC-01: View order history",
+      "status": "pending",
+      "duration": 0,
+      "notes": "",
+      "screenshots": [],
+      "logOutput": ""
+    },
+    {
+      "id": "exec-1",
+      "testCaseId": 3409,
+      "testCaseNumber": 3409,
+      "testCaseName": "Test Case 3409",
+      "status": "passed",
+      "duration": 0,
+      "notes": "",
+      "screenshots": [],
+      "logOutput": ""
+    },
+    {
+      "id": "exec-2",
+      "testCaseId": 3391,
+      "testCaseNumber": 17,
+      "testCaseName": "TC-ADM-03: Admin updates inventory for an existing book",
+      "status": "passed",
+      "duration": 0,
+      "notes": "",
+      "screenshots": [],
+      "logOutput": ""
+    },
+    {
+      "id": "exec-3",
+      "testCaseId": 3390,
+      "testCaseNumber": 16,
+      "testCaseName": "TC-ADM-02: Non-admin user attempts to access admin dashboard",
+      "status": "passed",
+      "duration": 0,
+      "notes": "",
+      "screenshots": [],
+      "logOutput": ""
+    },
+    {
+      "id": "exec-4",
+      "testCaseId": 3389,
+      "testCaseNumber": 15,
+      "testCaseName": "TC-ADM-01: Admin uploads a new book",
+      "status": "passed",
+      "duration": 0,
+      "notes": "",
+      "screenshots": [],
+      "logOutput": ""
+    },
+    {
+      "id": "exec-5",
+      "testCaseId": 3385,
+      "testCaseNumber": 11,
+      "testCaseName": "TC-CART-02: Payment declined by gateway",
+      "status": "passed",
+      "duration": 0,
+      "notes": "",
+      "screenshots": [],
+      "logOutput": ""
+    },
+    {
+      "id": "exec-6",
+      "testCaseId": 3384,
+      "testCaseNumber": 10,
+      "testCaseName": "TC-CART-01: Successful payment processing and user verification",
+      "status": "passed",
+      "duration": 0,
+      "notes": "",
+      "screenshots": [],
+      "logOutput": ""
+    },
+    {
+      "id": "exec-7",
+      "testCaseId": 3381,
+      "testCaseNumber": 7,
+      "testCaseName": "TC-CAT-01: Search by keyword returns relevant results",
+      "status": "passed",
+      "duration": 0,
+      "notes": "",
+      "screenshots": [],
+      "logOutput": ""
+    },
+    {
+      "id": "exec-8",
+      "testCaseId": 3380,
+      "testCaseNumber": 6,
+      "testCaseName": "TC-AUTH-06: Admin attempts to access user-only page",
+      "status": "passed",
+      "duration": 0,
+      "notes": "",
+      "screenshots": [],
+      "logOutput": ""
+    },
+    {
+      "id": "exec-9",
+      "testCaseId": 3379,
+      "testCaseNumber": 5,
+      "testCaseName": "TC-AUTH-05: Invalid email format on login",
+      "status": "passed",
+      "duration": 0,
+      "notes": "",
+      "screenshots": [],
+      "logOutput": ""
+    },
+    {
+      "id": "exec-10",
+      "testCaseId": 3377,
+      "testCaseNumber": 3,
+      "testCaseName": "TC-AUTH-03: Rate limiting triggered on login endpoint",
+      "status": "passed",
+      "duration": 0,
+      "notes": "",
+      "screenshots": [],
+      "logOutput": ""
+    },
+    {
+      "id": "exec-11",
+      "testCaseId": 3376,
+      "testCaseNumber": 2,
+      "testCaseName": "TC-AUTH-02: Magic link expires after 15 minutes",
+      "status": "passed",
+      "duration": 0,
+      "notes": "",
+      "screenshots": [],
+      "logOutput": ""
+    },
+    {
+      "id": "exec-12",
+      "testCaseId": 3374,
+      "testCaseNumber": 1,
+      "testCaseName": "TC-AUTH-01: Successful login via email magic link",
+      "status": "passed",
+      "duration": 0,
+      "notes": "",
+      "screenshots": [],
+      "logOutput": ""
+    },
+    {
+      "id": "exec-13",
+      "testCaseId": 3388,
+      "testCaseNumber": 14,
+      "testCaseName": "TC-ACC-02: Add a new shipping address",
+      "status": "failed",
+      "duration": 0,
+      "notes": "Bug: Address saves to the backend, but the frontend UI does not update dynamically. The user has to manually refresh the page to see the new address in their saved list. Logged as BUG-1043.",
+      "screenshots": [],
+      "logOutput": ""
+    },
+    {
+      "id": "exec-14",
+      "testCaseId": 3378,
+      "testCaseNumber": 4,
+      "testCaseName": "TC-AUTH-04: Invalid OTP entry lockout",
+      "status": "failed",
+      "duration": 0,
+      "notes": "Bug: System does not invalidate OTP after 3 failed attempts as expected. It allows infinite retries, posing a brute-force security risk. Logged as BUG-1042.",
+      "screenshots": [],
+      "logOutput": ""
+    },
+    {
+      "id": "exec-15",
+      "testCaseId": 3386,
+      "testCaseNumber": 12,
+      "testCaseName": "TC-CART-03: Network failure during payment processing",
+      "status": "blocked",
+      "duration": 0,
+      "notes": "Blocked: Cannot execute due to sandbox gateway being completely down (Infrastructure Ticket INF-99). Will retest when gateway is restored.",
+      "screenshots": [],
+      "logOutput": ""
+    },
+    {
+      "id": "exec-16",
+      "testCaseId": 3383,
+      "testCaseNumber": 9,
+      "testCaseName": "TC-CAT-03: Search with no matching results",
+      "status": "skipped",
+      "duration": 0,
+      "notes": "",
+      "screenshots": [],
+      "logOutput": ""
+    },
+    {
+      "id": "exec-17",
+      "testCaseId": 3382,
+      "testCaseNumber": 8,
+      "testCaseName": "TC-CAT-02: Filter search results by Price Range",
+      "status": "partial",
+      "duration": 0,
+      "notes": "Search filters correctly for median prices, but fails to include books exactly on the boundary limits (e.g., exactly $10.00 or $20.00 are excluded).",
+      "screenshots": [],
+      "logOutput": ""
+    }
+  ],
+  "summary": {
+    "total": 18,
+    "passed": 12,
+    "failed": 2,
+    "skipped": 1,
+    "duration": 0
+  }
+}
