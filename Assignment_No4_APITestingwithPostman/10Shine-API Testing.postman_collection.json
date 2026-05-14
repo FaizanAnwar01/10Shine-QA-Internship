@@ -1,0 +1,303 @@
+{
+  "info": {
+    "_postman_id": "1105a8ab-952b-4ecd-abcd-61edef434259",
+    "name": "10Shine - API Testing",
+    "description": "### Welcome to Postman! This is your first collection. \n\nCollections are your starting point for building and testing APIs. You can use this one to:\n\n• Group related requests\n• Test your API in real-world scenarios\n• Document and share your requests\n\nUpdate the name and overview whenever you’re ready to make it yours.\n\n[Learn more about Postman Collections.](https://learning.postman.com/docs/collections/collections-overview/)",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "50844211",
+    "_collection_link": "https://go.postman.co/collection/50844211-1105a8ab-952b-4ecd-abcd-61edef434259?source=collection_link"
+  },
+  "item": [
+    {
+      "name": "1.Create Object",
+      "event": [
+        {
+          "listen": "test",
+          "script": {
+            "exec": [
+              "// Parse the JSON response\r",
+              "let responseData = pm.response.json();\r",
+              "\r",
+              "// Log values to the Postman Console\r",
+              "console.log(\"Created Object ID: \" + responseData.id);\r",
+              "console.log(\"Created Object Name: \" + responseData.name);\r",
+              "\r",
+              "// Save the ID for the next requests (API Chaining)\r",
+              "pm.collectionVariables.set(\"objectId\", responseData.id);\r",
+              "\r",
+              "// Chai Assertions\r",
+              "pm.test(\"Status code is 200\", function () {\r",
+              "    pm.response.to.have.status(200);\r",
+              "});\r",
+              "\r",
+              "pm.test(\"Response contains an ID\", function () {\r",
+              "    pm.expect(responseData.id).to.not.be.undefined;\r",
+              "});"
+            ],
+            "type": "text/javascript",
+            "packages": {},
+            "requests": {}
+          }
+        },
+        {
+          "listen": "prerequest",
+          "script": {
+            "exec": [
+              "// Generate random data using Postman's dynamic variables\r",
+              "let randomDeviceName = pm.variables.replaceIn('{{$randomProductName}}');\r",
+              "let randomColor = pm.variables.replaceIn('{{$randomColor}}');\r",
+              "\r",
+              "// Save them to variables to use in the Body\r",
+              "pm.collectionVariables.set(\"deviceName\", randomDeviceName);\r",
+              "pm.collectionVariables.set(\"deviceColor\", randomColor);\r",
+              ""
+            ],
+            "type": "text/javascript",
+            "packages": {},
+            "requests": {}
+          }
+        }
+      ],
+      "request": {
+        "method": "POST",
+        "header": [],
+        "body": {
+          "mode": "raw",
+          "raw": "{\r\n   \"name\": \"{{deviceName}}\",\r\n   \"data\": {\r\n      \"year\": 2026,\r\n      \"price\": 1849.99,\r\n      \"CPU model\": \"Intel Core i9\",\r\n      \"Hard disk size\": \"1 TB\",\r\n      \"color\": \"{{deviceColor}}\"\r\n   }\r\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": {
+          "raw": "1. POST Request",
+          "host": [
+            "1",
+            " POST Request"
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "2.Get Object",
+      "event": [
+        {
+          "listen": "test",
+          "script": {
+            "exec": [
+              "let responseData = pm.response.json();\r",
+              "\r",
+              "pm.test(\"Status code is 200\", function () {\r",
+              "    pm.response.to.have.status(200);\r",
+              "});\r",
+              "pm.test(\"Verify Name matches chained variable\", function () {\r",
+              "    let expectedName = pm.collectionVariables.get(\"deviceName\");\r",
+              "    pm.expect(responseData.name).to.eql(expectedName);\r",
+              "});"
+            ],
+            "type": "text/javascript",
+            "packages": {},
+            "requests": {}
+          }
+        }
+      ],
+      "request": {
+        "auth": {
+          "type": "noauth"
+        },
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "{{baseUrl}}/{{objectId}}",
+          "host": [
+            "{{baseUrl}}"
+          ],
+          "path": [
+            "{{objectId}}"
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "3.Update Object",
+      "event": [
+        {
+          "listen": "test",
+          "script": {
+            "exec": [
+              "pm.test(\"Status code is 200\", function () {\r",
+              "    pm.response.to.have.status(200);\r",
+              "});\r",
+              "let jsonData = pm.response.json();\r",
+              "pm.test(\"Price was updated correctly\", function () {\r",
+              "    pm.expect(jsonData.data.price).to.eql(2000.00);\r",
+              "});"
+            ],
+            "type": "text/javascript",
+            "packages": {},
+            "requests": {}
+          }
+        }
+      ],
+      "request": {
+        "auth": {
+          "type": "noauth"
+        },
+        "method": "PUT",
+        "header": [],
+        "body": {
+          "mode": "raw",
+          "raw": "{\r\n   \"name\": \"{{deviceName}} - UPDATED\",\r\n   \"data\": {\r\n      \"year\": 2026,\r\n      \"price\": 2000.00,\r\n      \"CPU model\": \"AMD Ryzen 9\",\r\n      \"Hard disk size\": \"2 TB\",\r\n      \"color\": \"Matte Black\"\r\n   }\r\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": {
+          "raw": "{{baseUrl}}/{{objectId}}",
+          "host": [
+            "{{baseUrl}}"
+          ],
+          "path": [
+            "{{objectId}}"
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "4.Patch Object",
+      "event": [
+        {
+          "listen": "test",
+          "script": {
+            "exec": [
+              "pm.test(\"Name was patched correctly\", function () {\r",
+              "    let jsonData = pm.response.json();\r",
+              "    pm.expect(jsonData.name).to.include(\"PATCHED\");\r",
+              "});\r",
+              "\r",
+              "// TASK 5 REQUIREMENT: INTENTIONAL FAILING TEST\r",
+              "pm.test(\"INTENTIONAL FAIL: Status code is 201\", function () {\r",
+              "    pm.response.to.have.status(201); \r",
+              "});"
+            ],
+            "type": "text/javascript",
+            "packages": {},
+            "requests": {}
+          }
+        }
+      ],
+      "request": {
+        "auth": {
+          "type": "noauth"
+        },
+        "method": "PATCH",
+        "header": [],
+        "body": {
+          "mode": "raw",
+          "raw": "{\r\n   \"name\": \"{{deviceName}} - PATCHED\"\r\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": {
+          "raw": "{{baseUrl}}/{{objectId}}",
+          "host": [
+            "{{baseUrl}}"
+          ],
+          "path": [
+            "{{objectId}}"
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "5.Delete Object",
+      "event": [
+        {
+          "listen": "test",
+          "script": {
+            "exec": [
+              "pm.test(\"Status code is 200\", function () {\r",
+              "    pm.response.to.have.status(200);\r",
+              "});\r",
+              "pm.test(\"Response has success message\", function () {\r",
+              "    let jsonData = pm.response.json();\r",
+              "    pm.expect(jsonData.message).to.include(\"has been deleted\");\r",
+              "});\r",
+              "\r",
+              "// Clean up the environment variable\r",
+              "pm.collectionVariables.unset(\"objectId\");"
+            ],
+            "type": "text/javascript",
+            "packages": {},
+            "requests": {}
+          }
+        }
+      ],
+      "request": {
+        "auth": {
+          "type": "noauth"
+        },
+        "method": "DELETE",
+        "header": [],
+        "url": {
+          "raw": "{{baseUrl}}/{{objectId}}",
+          "host": [
+            "{{baseUrl}}"
+          ],
+          "path": [
+            "{{objectId}}"
+          ]
+        }
+      },
+      "response": []
+    }
+  ],
+  "event": [
+    {
+      "listen": "prerequest",
+      "script": {
+        "type": "text/javascript",
+        "packages": {},
+        "requests": {},
+        "exec": [
+          ""
+        ]
+      }
+    },
+    {
+      "listen": "test",
+      "script": {
+        "type": "text/javascript",
+        "packages": {},
+        "requests": {},
+        "exec": [
+          ""
+        ]
+      }
+    }
+  ],
+  "variable": [
+    {
+      "key": "baseUrl",
+      "value": ""
+    },
+    {
+      "key": "deviceName",
+      "value": ""
+    },
+    {
+      "key": "deviceColor",
+      "value": ""
+    }
+  ]
+}
