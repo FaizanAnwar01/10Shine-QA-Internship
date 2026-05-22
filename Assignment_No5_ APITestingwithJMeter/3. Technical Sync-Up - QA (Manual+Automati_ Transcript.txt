@@ -1,0 +1,242 @@
+Technical Sync-Up - QA (Manual+Automation)
+Fri, May 8, 2026
+
+17:31 - Syeda Kisa Fatima Abidi
+And if you are looking at questions, they are learning. One, it would be best if you could start and give in your status. Maheen, can you give your status and then take everyone's statuses?
+
+17:45 - Namra Kanwal
+Before we go into status, Aksham wants to add some AI stuff. OK, OK, sure, sure.
+
+17:51 - Namra Kanwal#+#Syeda Kisa Fatima Abidi
+Sure, sure.
+
+17:52 - Syeda Kisa Fatima Abidi
+Aksham, over to you.
+
+17:56 - Ehtasham Ahmad
+Aksham, so we plan to introduce you with AI and how we use it in our QA workforce. So, I will tell you the overview of its basic introductory level, so that you know, as an industry professional, how we use AI in the QA. So, first of all, I'll start with the AI introduction. So, basically, AI is everyone's talk. Like any human intelligence-based QoP, if you code a human game machine, that is artificial intelligence. Intelligence. So there are several tools that we, you know, use to help ourselves, you know, getting our work done efficiently and fastly. There are a few tools in which we are using agents. There are different IDEs which are AI enabled. We are using them in our personal team. Our company-wide, we are using cloud. Our company is also undergoing essential training. We are enabling all that. Employees to use these tools to perform better with their daily tasks.
+
+19:10 - Ehtasham Ahmad
+As a QA, you have to drop a test plan for your requirements for your project. So you can always take help from the AI tool. You can throw in all your requirements, and you can ask them to drop you a test plan. Then you review it or skin Adobe shortcomings that you can pinpoint to your agent and you can ask him for the regions. After that you can, you know, ask him to write those different test cases. As I hope they came to be obvious cases they created. So what are the chances of thinking up when a key boundary? Yes, yes, well, you're sick with miscarry. You can always ask the AI to, you know, get you the edge cases. You can write your or test cases and get it reviewed by the AI. The biggest time saver is that you can ask the AI to write you test data. Because it takes a lot of time to make multiple records. So you can always use those. Other than that, it also enables us to perform as a gray box tester. A gray box tester is a manual tester he doesn't know what's happening inside the code, what's, you know, happening behind the scenes. But it enables you to, you know, work as a box tester as well. You can, you know, ask the AI to write you some unit tests. You can always take help.
+
+20:51 - Ehtasham Ahmad
+You can use that ID. It has its own automated browser. So you can give it a website URL. Let's say you want to log in, you can give him the login credentials. Or you can just write prompts to test this thing, this thing, or go for the browser. And it can give you a test report at the end as well. So these are the things that we do using our daily in daily workflows as QA. Also, you can do test reporting. Also, how we are using it in our company. We have pulse reports. Basically, you have to submit every week that how was your performance in your project last week. How many features did you test? How many bugs did you find? Did you find any blockers?
+
+21:47 - Ehtasham Ahmad
+All the test cases you have written, you have reviewed them. So that's a daily, weekly practice for every QA in our company. We are automating that. Our peer reviewer, who reviews our Pulse report, instead of that, our AI will automatically review it and give us its comments. So that's pretty much from my side. The other advantages and disadvantages are that our time is saved, you can get it done within less than two hours. This is what it is saying. You don't know what's happening behind the scenes. So always when you are using AI, especially you guys in terms, so behind the scenes, so you will not learn it.
+
+22:44 - Ehtasham Ahmad
+So that's all from my side.
+
+23:11 - Ehtasham Ahmad
+Pass it back to Kisa.
+
+23:15 - Ehtasham Ahmad
+Yeah, if you have a question, you can ask me right away.
+
+23:23 - Maheen Tariq
+Sir, you told us about a browser in which we can write our script and it automatically runs. What was the name of the automated browser? Actually, it's a tool called Google Antigravity IDE.
+
+23:38 - Ehtasham Ahmad
+Yes, I think you have something.
+
+24:05 - Afeef Bari
+Automation is very beneficial, you allow it, you are running the script yourself. But sir, at some times, and there have been some cases where you were running a script that you didn't even need to run. And as a beginner, I would allow it, but at some times I feel that it would be harmful. Maybe my computer didn't read anything, but as a software engineer, if someone's computer Um, yes, actually, we have to get the approval from our IT before installing it.
+
+25:00 - Ehtasham Ahmad
+So, we are, you know, at the stake of gravity.
+
+25:29 - Ehtasham Ahmad
+extra scripts. You can use the plan mode of anti-gravity. If you give a go ahead. Prompt engineering is a very major thing.
+
+25:58 - Ehtasham Ahmad
+detailed, well-defined prompt. In an effective prompt, the last part of the prompt, you have to define how your output should come, in which format it should come. The better you define it, the more you can avoid unwanted stuff.
+
+26:21 - Ehtasham Ahmad
+I hope my answers are okay.
+
+26:30 - Ehtasham Ahmad
+Okay, back to you, Kissa.
+
+26:34 - Syeda Kisa Fatima Abidi
+Sure, thank you. As Rishabh mentioned, as Zubair said, integration of AI is very important. Not just because it's important, or because it's trending, It's just it's going to help you in you in a lot of ways. So you need to know how and why and So all in all.
+
+27:17 - Syeda Kisa Fatima Abidi
+which AI tool is solving your problem. So, it's again part of learning which will help you personally and obviously professionally. Anyway, with that, let's start the status. Before that, I would just want to mention two things. One is that, thank you everyone who has turned on the cameras. Start of the best practice would be to keep all your cameras turned on because again this is a virtual internship so the best would be that we are at least virtually connecting with each other and your cameras are on. Secondly, a request would be that if the time for the meeting for the call is for 4pm, I would request all of you to be there available at 4pm sharp. In this particular meeting. Thoda sa late join karne se it does not give a very good impression. Obviously ye cheez insan professionally aata hai to ye cheezon ko seekta hai but then internship is part of learn like is a road where you go after that you proceed to your jobs and everything. To ye choti soft skill hai lekin bahut better karte hai. Any which way, Maheen I would want you to start. Aap apna status dedu. Like what was Have you completed it? Submission ho gayi hai?
+
+28:36 - Maheen Tariq
+Assignment in which we tested Okay, you can share the link in chat Google Drive I think we need to.
+
+29:57 - Afeef Bari
+Or just I'm in 3D will be called us about you to sorry 5 a.m. OK. Oh. Oh. I mean assignment three.
+
+30:24 - Aimen Munawar
+But actually assignment was late in submitting it. Because of that, it is still showing me overdue on the portal. I think it was written in the message in the chat that I am facing that issue. I did it on complete time. But because it was open house and defense this week, I couldn't submit it on time. But I have uploaded it on the same github link. Okay. Bilal Ansari.
+
+30:55 - Bilal Ansari
+Hello, Assignment 1 and Assignment 2, on the time, I had submitted almost everything. And in Assignment only one issue, which was about Vartik. In that, there was an issue in uploading. And according to me, maybe there is no correct version of it. Or maybe it wasn't like that. But anyway, it was a little annoying, and then it was done. Because, obviously, I was using it for the first time. Now...
+
+31:46 - Bilal Ansari
+Okay.
+
+31:49 - Unidentified Speaker
+I'm. I'm.
+
+32:14 - Izzah Batool
+Assalam-o-Alaikum, I have submitted both the assignments 2 As such, And secondly, I can't turn on my camera today because I can't figure out.
+
+33:10 - Izzah Batool
+Thank you. It's okay.
+
+33:35 - Muhammad Haris
+I will answer all the questions later. So I'll just give up. Yes. Assignment.
+
+33:42 - Syeda Kisa Fatima Abidi
+But
+
+34:04 - shahid khan
+So, that's why I was unable to submit the assignment to the assignment. If there is any possible list.
+
+34:32 - Unidentified Speaker
+Hi, am I audible?
+
+34:34 - MUHAMMAD FAIZAN ANWAR
+Yes, yes.
+
+34:36 - MUHAMMAD FAIZAN ANWAR#+#Maheen Tariq
+Assignment 2 was submitted.
+
+34:37 - MUHAMMAD FAIZAN ANWAR
+There was no issue with the SSH. One thing was that you cannot export reports in CSV. I think that was because of trial version. So, I exported the word in PDF, uploaded it on GitHub and submitted the links. And assignment 3, in assignment 3, a sample website was given in which we could test. I created some test cases and found some bugs on that website, which were basically logical bugs or functional bugs. Rest, I have experience in doing pen testing. So, I tested on a website, that is basically IBM test website, and I found some bugs in it, like SQL injection, HTML injection of Hadoop. Then I gave it to AI, that these bugs came out, and how were their scenarios and steps produced.
+
+35:30 - MUHAMMAD FAIZAN ANWAR
+The end that was easy.
+
+35:35 - Maheen Tariq
+Say it if they heard.
+
+35:39 - Syed Ibtehaj
+First of all, I got a little late today. My week wise assignments are complete and updated. The problem I was facing was in Taishwardhi. I haven't uploaded the getup link. I have only uploaded it on Google Drive.
+
+35:57 - Syed Ibtehaj
+Thank you. I'm done.
+
+36:26 - Syeda Kisa Fatima Abidi
+to submit Assignment Assignment 3 is due tonight, so if it is not due yet, then you can submit Please submit it on the portal before 12 o'clock. Those whose Assignment due, for whatever reason, whatever your problem was, whatever the reason has been, you can personally write to me on this site with your email addresses. On the GitHub link, you can share your So what you can do is upload it on the GitHub link. Secondly, I see a lot of you having issues with testworthy, how things are working, everything around those lines.
+
+37:24 - Syeda Kisa Fatima Abidi
+As my best knowledge, I think there's on Temple University, there is a course related to testworthy. I will check it myself. I think that course exists there. If not, So, that is a different scenario. I would suggest you all to take that course and see if it can help you in any way.
+
+37:48 - Syeda Kisa Fatima Abidi
+What else questions do we have?
+
+37:49 - Maheen Tariq
+Ma'am, I would like to add one more thing. I have gone through the course of Test Worthy in 10th Pulse University. There is a lot of difference between the RL version and the trial version that we have. There are a lot of testing types that we don't have.
+
+38:07 - Maheen Tariq
+Okay. Okay.
+
+38:36 - Unidentified Speaker
+Yes. Yes.
+
+39:04 - Syed Ibtehaj#+#Syeda Kisa Fatima Abidi
+I'll get this. I'll get back to you with the date.
+
+39:33 - Syed Ibtehaj
+And I'll get this done.
+
+39:37 - Syeda Kisa Fatima Abidi
+I'll get the data time of data at least.
+
+39:43 - Unidentified Speaker
+OK, I have no.
+
+39:44 - Maheen Tariq#+#Syeda Kisa Fatima Abidi
+Type of issues.
+
+39:45 - Syeda Kisa Fatima Abidi
+Negative type 90 smoke I could see a lot of you who are coming up with solutions or suggestions. So that is a good thing. So that's a good thing. Thank you so much for doing that. Keep up that work.
+
+40:58 - Bilal Ansari#+#Syeda Kisa Fatima Abidi
+Yes, yes, Bilal.
+
+40:59 - Bilal Ansari
+Yes, ma'am, I wanted to ask that now you will email me, I mean, you will email us, on that we will have to tell that my assignment has passed.
+
+41:10 - Syeda Kisa Fatima Abidi
+No, no, just on this group chat, just message on this chat that which assignment you have missed. I think Aimen has also missed, right? So just drop a message over here that which assignment has been missed in this chat.
+
+41:26 - Bilal Ansari#+#Syeda Kisa Fatima Abidi
+take care of it. But make sure you upload it on Github. The link on Github.
+
+41:32 - Syeda Kisa Fatima Abidi
+So you guys have uploaded it there.
+
+41:34 - Bilal Ansari#+#Syed Ibtehaj
+I have given the link of Google Drive because the option was coming there.
+
+41:39 - Syed Ibtehaj
+So I have to submit it again. Where did you submit it, Ilyas?
+
+41:44 - Bilal Ansari#+#Syed Ibtehaj#+#Syeda Kisa Fatima Abidi
+Second, I clicked on the portal. So those who clicked on the portal, there is no problem.
+
+41:49 - Bilal Ansari#+#Syeda Kisa Fatima Abidi
+People who were not able to submit on the portal, for them I am saying that the group chat Okay.
+
+41:55 - Syed Ibtehaj#+#Syeda Kisa Fatima Abidi
+Okay.
+
+42:23 - Syeda Kisa Fatima Abidi
+I'll make sure.
+
+42:55 - Syeda Kisa Fatima Abidi
+Do you have any other questions?
+
+43:02 - Unidentified Speaker
+Yes, Eza.
+
+43:03 - Syeda Kisa Fatima Abidi
+You can start with your question.
+
+43:06 - Izzah Batool
+Ma'am, I couldn't attend the last SYNCUP because it was a family emergency. So, I informed about the 10-12 email, but I didn't get a reply. So, I just wanted to make sure that no effect on the evaluation. Are your assignments submitted on time? Yes.
+
+43:33 - Syeda Kisa Fatima Abidi
+These sessions are equally important because the certificates you get, attendance, your submission, obviously on that and how you interact and present yourself during those calls, it all contributes to the certificate that we gave. And given that. So I don't think it should be a problem, but make sure. Yes. No problem. Yes. So I have a question that is How would I answer that?
+
+44:48 - Syeda Kisa Fatima Abidi
+It's just that there are a lot of testing tools. We felt that we should make our own testing tool, so we made a testing tool. If Ehtasham or Namra have a better answer, please let us know. We are using it for our internal projects.
+
+45:06 - Ehtasham Ahmad#+#Syeda Kisa Fatima Abidi
+It's not like we are using it for all projects. We are using it for Jira, Azure DevOps, etc.
+
+45:15 - Ehtasham Ahmad
+It all depends upon the client. The client has to go with the Jira. So that's flexible that way. Actually, in some projects, the client didn't give us a paid tool. So it was a big problem for us to document it.
+
+45:43 - Namra Kanwal
+the excel sheet on the notepad. So for that take, we have made a tool which is company-wide and can help everyone. It is a professional tool. Even though we have presented this tool to many clients as a demo, they like that in a company, there is a proper professionalism that we at least write our test cases on an excel sheet. So that is why we thought that it is required. Yeah, that's good.
+
+46:13 - Syed Ibtehaj
+Actually, we have certain database requirement or the, you know, the users, customers. Just like the other tools.
+
+46:37 - Ehtasham Ahmad
+the main goal of your task is So this main skill is like you know how to write a risk case. I hope that answers your question.
+
+47:39 - Syeda Kisa Fatima Abidi
+Will check on time whether it can be updated or not. After some time, please make sure that you refresh and check the portal. It is possible that the time will be updated. And just in case, if there is a problem that the time is not updated and it goes overdue only, then you can submit your assignment on the GitHub link. And then in the next meeting, we can discuss why we couldn't do it or what was the problem. Okay?
+
+48:06 - Syeda Kisa Fatima Abidi
+Have a great weekend. Yes. I'm one last question.
+
+48:11 - Afeef Bari
+I'm just in case for some reason.
+
+48:34 - Afeef Bari
+make sure to give that kind of impression and make sure for all for all for your for your like occasion I think we're good for this week.
+
+49:04 - Syeda Kisa Fatima Abidi
+Have a great weekend ahead.
+
+49:31 - Unidentified Speaker
+tonight.
