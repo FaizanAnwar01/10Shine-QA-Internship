@@ -1,0 +1,7 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+1. POST - Create Object,3,7,5,9,1.63,0.000%,1.50075,0.65,0.39,440.7
+2. GET - Verify Creation,3,2,2,2,0.00,0.000%,1.50981,0.64,0.24,435.7
+3. PATCH - Update Object,3,4,4,5,0.47,0.000%,1.50754,0.66,0.35,448.7
+4. DELETE - Remove Object,3,4,4,5,0.47,0.000%,1.50830,0.66,0.27,448.7
+5. GET - Verify Deletion,3,1,1,2,0.47,0.000%,1.51210,0.52,0.24,355.0
+TOTAL,15,4,1,9,2.13,0.000%,4.14823,1.72,0.83,425.7
