@@ -1,0 +1,16 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1.77945E+12,9,1. POST - Create Object,201,Created,CRUD Load Test  1-1,text,TRUE,,444,271,1,1,http://localhost:3000/products,9,0,2
+1.77945E+12,2,2. GET - Verify Creation,200,OK,CRUD Load Test  1-1,text,TRUE,,439,164,1,1,http://localhost:3000/products/hFMB4fX2qEc,2,0,0
+1.77945E+12,4,3. PATCH - Update Object,200,OK,CRUD Load Test  1-1,text,TRUE,,452,237,2,2,http://localhost:3000/products/hFMB4fX2qEc,4,0,0
+1.77945E+12,7,1. POST - Create Object,201,Created,CRUD Load Test  1-2,text,TRUE,,437,267,2,2,http://localhost:3000/products,7,0,1
+1.77945E+12,5,4. DELETE - Remove Object,200,OK,CRUD Load Test  1-1,text,TRUE,,452,186,2,2,http://localhost:3000/products/hFMB4fX2qEc,5,0,0
+1.77945E+12,2,2. GET - Verify Creation,200,OK,CRUD Load Test  1-2,text,TRUE,,432,164,2,2,http://localhost:3000/products/3Zsuq00ZmY0,2,0,0
+1.77945E+12,2,5. GET - Verify Deletion,404,Not Found,CRUD Load Test  1-1,text,TRUE,,355,164,3,3,http://localhost:3000/products/hFMB4fX2qEc,2,0,0
+1.77945E+12,5,3. PATCH - Update Object,200,OK,CRUD Load Test  1-2,text,TRUE,,445,234,2,2,http://localhost:3000/products/3Zsuq00ZmY0,5,0,0
+1.77945E+12,5,1. POST - Create Object,201,Created,CRUD Load Test  1-3,text,TRUE,,441,269,2,2,http://localhost:3000/products,5,0,1
+1.77945E+12,5,4. DELETE - Remove Object,200,OK,CRUD Load Test  1-2,text,TRUE,,445,186,2,2,http://localhost:3000/products/3Zsuq00ZmY0,5,0,0
+1.77945E+12,2,2. GET - Verify Creation,200,OK,CRUD Load Test  1-3,text,TRUE,,436,164,2,2,http://localhost:3000/products/Hp6dl6mbrCs,2,0,0
+1.77945E+12,2,5. GET - Verify Deletion,404,Not Found,CRUD Load Test  1-2,text,TRUE,,355,164,2,2,http://localhost:3000/products/3Zsuq00ZmY0,2,0,0
+1.77945E+12,5,3. PATCH - Update Object,200,OK,CRUD Load Test  1-3,text,TRUE,,449,236,1,1,http://localhost:3000/products/Hp6dl6mbrCs,5,0,0
+1.77945E+12,4,4. DELETE - Remove Object,200,OK,CRUD Load Test  1-3,text,TRUE,,449,186,1,1,http://localhost:3000/products/Hp6dl6mbrCs,4,0,0
+1.77945E+12,1,5. GET - Verify Deletion,404,Not Found,CRUD Load Test  1-3,text,TRUE,,355,164,1,1,http://localhost:3000/products/Hp6dl6mbrCs,1,0,0
